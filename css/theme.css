@@ -561,7 +561,7 @@ a,
     -webkit-transition: color 500ms;
     transition: color 500ms;
 
-font-size: 36px;
+font-size: 30px;
 padding-top: 20px;
 }
 .navbar-brand {
@@ -575,7 +575,7 @@ padding-top: 20px;
 @media (max-width:768px) {.navbar-bg{background: rgba(0, 0, 0, 0.93); height:3000px}}
 @media (min-width:768px) {
 	.navbar-iphone{  float: right;font-size: 36px;color: #fff;line-height: 65px;}
-	.navbar-iphone span{  font-size: 28px;}
+	.navbar-iphone span{  font-size: 30px;}
 
 
 }
