@@ -339,7 +339,7 @@ h2 {
 
 /* BUTTON */
 .btn-outline {
- color: #181818; font-size:14px; font-weight:600;letter-spacing: 5px;
+ color: #181818; font-size:14px; font-weight:600;letter-spacing: 1px;
 }
 .btn-outline:focus, 
 .btn-outline:hover {
