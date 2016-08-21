@@ -556,12 +556,12 @@ a,
     font-family: 'guoshi';
     color: #FFF;
     display: block;
-    height: 20px;
+    height: 50px;
     overflow: hidden;
     -webkit-transition: color 500ms;
     transition: color 500ms;
 
-font-size: 48px;
+font-size: 24px;
 padding-top: 20px;
 }
 .navbar-brand {
@@ -617,12 +617,12 @@ padding-top: 20px;
     font-family: 'guoshi';
     color: #FFF;
     display: block;
-    height: 20px;
+    height: 50px;
     overflow: hidden;
     -webkit-transition: color 500ms;
     transition: color 500ms;
 
-font-size: 38px;
+font-size: 19px;
 padding-top: 20px;
 }
 .navbar-brand {

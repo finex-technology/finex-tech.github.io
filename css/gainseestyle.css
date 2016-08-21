@@ -27,7 +27,7 @@
 .lianxi .lxright li{ list-style:none}
 	.lianxi .lxright li  i{ line-height:36px; }
 	.lianxi .lxright li  i{ margin-top: 5px;margin-right: 20px;float: none;  font-style:inherit}
-	.lianxi .lxright .fa{font-family:'gainsee_icon'; width:40px; color:#212121;font-size:36px;
+	.lianxi .lxright .fa{font-family:'guoshi'; width:40px; color:#212121;font-size:36px;
     line-height: 0.75em;
     vertical-align: -15%;}
 	.fa-lg:before{   left: 0;
@@ -39,7 +39,7 @@
 
 
 .footer .info li a {
-  font-family:'gainsee_icon';
+  font-family:'guoshi';
   color: #9d9d9d;
   display: block;
   height: 50px;
@@ -49,7 +49,7 @@
   width: 30px;
   font-size:36px}
 .footer .info li a:hover {
-  font-family:'gainsee_icon';
+  font-family:'guoshi';
   color: #FFF;
   display: block;
   height: 50px;
