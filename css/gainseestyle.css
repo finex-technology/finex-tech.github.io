@@ -17,7 +17,7 @@
     src: url('fonts/guoshi.eot');
     src: url('fonts/guoshi.eot?#iefix') format('embedded-opentype'),
          url('fonts/guoshi.woff2') format('woff2'),
-         url('fonts/guoshi.woff') format('woff'),
+         url('fonts/OpenSans-Bold.woff') format('woff'),
          url('fonts/guoshi.ttf') format('truetype'),
          url('fonts/guoshi.svg#kelson_sansregular') format('svg');
     font-weight: normal;
